@@ -1,0 +1,19 @@
+.hide
+{
+    display: none;
+}
+/*      header{
+    background: green;
+    width: 100%;
+    padding: 100px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    transition: 0.9s;
+}
+
+.aa{
+
+    padding: 40px;
+    background: red;
+}
